@@ -44,10 +44,13 @@ The website is fully responsive and optimized for different screen sizes using *
 
 📸 Screenshots
 
-Home page
+Home Page
 
 ![image alt](https://github.com/Deepanshusingh-69/Amazon_clone/blob/6884908d43879932ea03261045bac7e921600a15/assets/Home.png)
 
+Sign in Page
+
+![image alt](https://github.com/Deepanshusingh-69/Amazon_clone/blob/f3f7cc84d63578f873f755e757c3e0cf1af17487/assets/Sign_in.png)
 ---
 
 🔧 Future Improvements
