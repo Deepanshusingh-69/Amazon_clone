@@ -57,6 +57,11 @@ Cart Page :-
 
 ![image alt](https://github.com/Deepanshusingh-69/Amazon_clone/blob/c30f0afc43c0e01812ea6460bdcc140001766b2c/assets/cart.png)
 
+Footer :-
+
+![image alt](https://github.com/Deepanshusingh-69/Amazon_clone/blob/6fd04679eefeee611d808aa3a04882af2f394a19/assets/Footer.png)
+
+
 
 🔧 Future Improvements
 
